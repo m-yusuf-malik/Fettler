@@ -4,6 +4,6 @@ A web app for predicting the diet plan by taking the user's full body picture as
 ## Frontend:
 https://github.com/m-yusuf-malik/Fetller-FE
 
-## Backend
+## Backend::
 https://github.com/m-yusuf-malik/Fetller-BE
 
